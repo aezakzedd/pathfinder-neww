@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miguilas Inn and Resto Bar",
+        "categories": ["ACCOMMODATION", "RESORT"],
+        "description": "Inn and restaurant in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.1348645200423, 13.98755168209128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natotoo Falls",
+        "categories": ["WATERFALL", "NATURE"],
+        "description": "A beautiful waterfall in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.15298682487371, 13.879262767642187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Sadab",
+        "categories": ["VIEWPOINT", "NATURE"],
+        "description": "Mountain viewpoint in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.16179072332014, 13.885858386503344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. John the Baptist Church",
+        "categories": ["RELIGIOUS_SITE", "HERITAGE"],
+        "description": "Historic church in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.13504960530524, 13.983298993332824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coco Beach Resort",
+        "categories": ["BEACH", "ACCOMMODATION", "RESORT"],
+        "description": "Beachfront resort in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.13097456746102, 13.981994139846373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talahid Falls",
+        "categories": ["WATERFALL", "NATURE"],
+        "description": "Scenic waterfall in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.14030596560987, 13.792830659039126]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palumbanes Island",
+        "categories": ["ISLAND"],
+        "description": "Island with scenic views in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.04335345796237, 14.024204879590119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toytoy Beach",
+        "categories": ["BEACH"],
+        "description": "Beach in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.13075649902726, 13.99610361623702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sugod Beach",
+        "categories": ["BEACH"],
+        "description": "Beach in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.13127081527215, 13.884837183543102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minabobo Creek Resort",
+        "categories": ["ACCOMMODATION", "RESORT"],
+        "description": "Creek resort in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.13486478779596, 13.84708042893852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tignob Beach",
+        "categories": ["BEACH"],
+        "description": "Beach in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.02259826506386, 14.018106591467156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bitaog Beach",
+        "categories": ["BEACH"],
+        "description": "Beach in Caramoran",
+        "municipality": "CARAMORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.03736114283674, 14.024435372457186]
+      }
+    }
+  ]
+}

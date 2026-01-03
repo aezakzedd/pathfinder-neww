@@ -1,0 +1,275 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-01-03T14:50:00Z",
+  "description": "Master media manifest for HapiHub tourist spots - supports images and videos",
+  "config": {
+    "imagePath": "/assets/images",
+    "videoPath": "/assets/videos",
+    "thumbnailPath": "/assets/thumbnails",
+    "supportedImageFormats": ["jpg", "jpeg", "png", "webp"],
+    "supportedVideoFormats": ["mp4", "webm"],
+    "maxImageSize": "5MB",
+    "maxVideoSize": "50MB",
+    "videoQuality": {
+      "1080p": "_1080p",
+      "720p": "_720p",
+      "480p": "_480p"
+    }
+  },
+  "spots": {
+    "BARAS": {
+      "Binurong Point": {
+        "media": {
+          "images": [
+            "baras_binurong-point_01.jpg",
+            "baras_binurong-point_02.jpg",
+            "baras_binurong-point_03.png"
+          ],
+          "videos": [],
+          "thumbnail": "baras_binurong-point_01.jpg",
+          "featured": "baras_binurong-point_01.jpg"
+        },
+        "categories": ["VIEWPOINT", "NATURE"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 3,
+          "videos": 0,
+          "total": 3
+        }
+      },
+      "East Coast Beach Resort": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["BEACH", "ACCOMMODATION", "RESORT"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "Macutal Falls": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["WATERFALL", "NATURE"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "Balacay Point": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["VIEWPOINT", "NATURE"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "Alon Stay": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["ACCOMMODATION"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "Abihao Point": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["VIEWPOINT", "NATURE"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "Dela Villa's Balacay Inn": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["ACCOMMODATION"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "Nyxx & Match Caf\u00e9": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["CAFE", "RESTAURANT"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "Jo Surf Inn": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["ACCOMMODATION", "SURFING"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "2838 Tea and Cafe": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["CAFE"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "Stanza De Benedicto": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["VIEWPOINT", "HERITAGE"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "Majestic Puraran Beach Resort": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["BEACH", "ACCOMMODATION", "RESORT", "SURFING"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "TasTea": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["CAFE"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "Puraran Surf Resort": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["BEACH", "ACCOMMODATION", "RESORT", "SURFING"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "Titaay Surfers Inn": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["ACCOMMODATION", "SURFING"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      },
+      "L'Astrolabe": {
+        "media": {
+          "images": [],
+          "videos": [],
+          "thumbnail": null,
+          "featured": null
+        },
+        "categories": ["ACCOMMODATION"],
+        "hasVideo": false,
+        "mediaCount": {
+          "images": 0,
+          "videos": 0,
+          "total": 0
+        }
+      }
+    }
+  },
+  "statistics": {
+    "totalMunicipalities": 1,
+    "totalSpots": 16,
+    "spotsWithMedia": 1,
+    "totalImages": 3,
+    "totalVideos": 0,
+    "totalMediaFiles": 3
+  }
+}

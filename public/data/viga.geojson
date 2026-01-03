@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cathy's Spring Resort",
+        "categories": ["RESORT", "ACCOMMODATION"],
+        "description": "A spring resort in Viga, Catanduanes",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.26764279047497, 13.828328929168835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Alley",
+        "categories": ["RESTAURANT", "CAFE"],
+        "description": "A restaurant and cafe in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.30991057127426, 13.87440986505987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summit View Park",
+        "categories": ["VIEWPOINT", "PARK"],
+        "description": "A scenic viewpoint park in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.2699644422191, 13.79084220997509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of the Assumption Parish Church",
+        "categories": ["RELIGIOUS_SITE", "HERITAGE"],
+        "description": "A historic parish church in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.30835694171724, 13.870935518647837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "H20 Resort",
+        "categories": ["RESORT", "ACCOMMODATION"],
+        "description": "A resort in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.30744043132205, 13.855342610612587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isla Bistro Café",
+        "categories": ["CAFE", "RESTAURANT"],
+        "description": "A bistro cafe in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.30883563610679, 13.872557403387635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cogon Hills",
+        "categories": ["VIEWPOINT", "NATURE", "HIKING"],
+        "description": "Scenic hills in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.4067938419412, 13.870805941856277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of Mount Carmel Parish Church",
+        "categories": ["RELIGIOUS_SITE", "HERITAGE"],
+        "description": "A parish church in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.37173817132177, 13.893931145649418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manuria Beach Resort",
+        "categories": ["BEACH", "RESORT", "ACCOMMODATION"],
+        "description": "A beachfront resort in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.36321167641226, 13.89992812418886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jac's Eatery",
+        "categories": ["RESTAURANT"],
+        "description": "A local eatery in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.31147248971916, 13.871750292208265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minaabat Beach",
+        "categories": ["BEACH"],
+        "description": "A pristine beach in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.41851218045034, 13.854510974160771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tapsihan sa Ilaya",
+        "categories": ["RESTAURANT"],
+        "description": "A local restaurant in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.30876720184392, 13.867210183769927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emerich Inn",
+        "categories": ["ACCOMMODATION"],
+        "description": "An inn in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.30975236074532, 13.87190788627189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sofeca Travellers Inn",
+        "categories": ["ACCOMMODATION"],
+        "description": "A travellers inn in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.31609046329228, 13.872631201214197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torres Inn",
+        "categories": ["ACCOMMODATION"],
+        "description": "An inn in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.37185679687455, 13.894427912854093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Amacepia Resort",
+        "categories": ["RESORT", "ACCOMMODATION"],
+        "description": "A villa resort in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.30851490399891, 13.866419737445327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kubo Suzara",
+        "categories": ["ACCOMMODATION"],
+        "description": "A traditional kubo accommodation in Viga",
+        "municipality": "VIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.3519918151362, 13.887407737570227]
+      }
+    }
+  ]
+}

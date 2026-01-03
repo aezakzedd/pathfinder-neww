@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Coast Beach Resort",
+        "categories": ["BEACH", "ACCOMMODATION", "RESORT"],
+        "description": "A beachfront resort offering accommodation and beach access in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.34601783087594, 13.645130194241856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macutal Falls",
+        "categories": ["WATERFALL", "NATURE"],
+        "description": "A stunning waterfall in Baras, Catanduanes",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.36844252512445, 13.67996312734602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balacay Point",
+        "categories": ["VIEWPOINT", "NATURE"],
+        "description": "A scenic viewpoint overlooking the ocean in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.39530656745467, 13.705434883642221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alon Stay",
+        "categories": ["ACCOMMODATION"],
+        "description": "A comfortable accommodation in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.39327067294845, 13.689745330816304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abihao Point",
+        "categories": ["VIEWPOINT", "NATURE"],
+        "description": "A dramatic coastal viewpoint in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.39929844046483, 13.6552093470827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dela Villa's Balacay Inn",
+        "categories": ["ACCOMMODATION"],
+        "description": "A welcoming inn near Balacay in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.38796879884181, 13.703861778807893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyxx & Match Café",
+        "categories": ["CAFE", "RESTAURANT"],
+        "description": "A cozy cafe serving coffee and meals in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.3689383521126, 13.660708793380602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binurong Point",
+        "categories": ["VIEWPOINT", "NATURE"],
+        "description": "A breathtaking viewpoint in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.41411899215612, 13.666430167435747]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jo Surf Inn",
+        "categories": ["ACCOMMODATION", "SURFING"],
+        "description": "A surfer-friendly inn near Puraran Beach in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.39591621513217, 13.688157832362895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2838 Tea and Cafe",
+        "categories": ["CAFE"],
+        "description": "A popular tea and cafe spot in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.37112167616075, 13.659533604564466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stanza De Benedicto",
+        "categories": ["VIEWPOINT", "HERITAGE"],
+        "description": "A historic viewpoint in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.40601723349695, 13.682383103603602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majestic Puraran Beach Resort",
+        "categories": ["BEACH", "ACCOMMODATION", "RESORT", "SURFING"],
+        "description": "Famous beachfront resort at Puraran Beach, known for surfing in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.39482668554628, 13.689409886846915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TasTea",
+        "categories": ["CAFE"],
+        "description": "A refreshing tea shop in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.37109158385094, 13.659490190945245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puraran Surf Resort",
+        "categories": ["BEACH", "ACCOMMODATION", "RESORT", "SURFING"],
+        "description": "A surf resort at the famous Puraran Beach in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.39430347202405, 13.689922738086013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Titaay Surfers Inn",
+        "categories": ["ACCOMMODATION", "SURFING"],
+        "description": "A surfer's haven near Puraran Beach in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.39426625732916, 13.688946131910923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Astrolabe",
+        "categories": ["ACCOMMODATION"],
+        "description": "A comfortable lodging in Baras",
+        "municipality": "BARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.38856451657799, 13.69095675710196]
+      }
+    }
+  ]
+}

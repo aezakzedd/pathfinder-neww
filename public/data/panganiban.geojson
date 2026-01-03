@@ -1,0 +1,14 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type": "Feature", "properties": {"name": "Cumagat Beach & Hilltop Resort", "categories": ["BEACH", "ACCOMMODATION", "RESORT"], "description": "Beach and hilltop resort in Panganiban", "municipality": "PANGANIBAN"}, "geometry": {"type": "Point", "coordinates": [124.35022267619804, 13.94963098536221]}},
+    {"type": "Feature", "properties": {"name": "Panyero Café", "categories": ["RESTAURANT", "CAFE"], "description": "Cafe in Panganiban", "municipality": "PANGANIBAN"}, "geometry": {"type": "Point", "coordinates": [124.2996761367774, 13.907878958291017]}},
+    {"type": "Feature", "properties": {"name": "Lolong Point Lighthouse", "categories": ["VIEWPOINT", "NATURE"], "description": "Lighthouse viewpoint in Panganiban", "municipality": "PANGANIBAN"}, "geometry": {"type": "Point", "coordinates": [124.35430502227162, 13.950358787088991]}},
+    {"type": "Feature", "properties": {"name": "Enerking Garden Resort", "categories": ["ACCOMMODATION", "RESORT"], "description": "Garden resort in Panganiban", "municipality": "PANGANIBAN"}, "geometry": {"type": "Point", "coordinates": [124.30081900978871, 13.906841559179071]}},
+    {"type": "Feature", "properties": {"name": "Ernest Eatery", "categories": ["RESTAURANT", "CAFE"], "description": "Eatery in Panganiban", "municipality": "PANGANIBAN"}, "geometry": {"type": "Point", "coordinates": [124.30351882198518, 13.906363558118793]}},
+    {"type": "Feature", "properties": {"name": "Banquerohan Bridge", "categories": ["VIEWPOINT", "NATURE"], "description": "Bridge viewpoint in Panganiban", "municipality": "PANGANIBAN"}, "geometry": {"type": "Point", "coordinates": [124.30837962465417, 13.89438097388749]}},
+    {"type": "Feature", "properties": {"name": "Angeles Homestay", "categories": ["ACCOMMODATION", "RESORT"], "description": "Homestay in Panganiban", "municipality": "PANGANIBAN"}, "geometry": {"type": "Point", "coordinates": [124.29556399563526, 13.907665802542967]}},
+    {"type": "Feature", "properties": {"name": "Tarahid KTV Bar", "categories": ["RESTAURANT", "CAFE"], "description": "Bar in Panganiban", "municipality": "PANGANIBAN"}, "geometry": {"type": "Point", "coordinates": [124.30487585340553, 13.91212173717216]}},
+    {"type": "Feature", "properties": {"name": "The Rezidence", "categories": ["ACCOMMODATION", "RESORT"], "description": "Accommodation in Panganiban", "municipality": "PANGANIBAN"}, "geometry": {"type": "Point", "coordinates": [124.30441513824577, 13.910962045093433]}}
+  ]
+}

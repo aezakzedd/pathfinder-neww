@@ -1,0 +1,92 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-01-03T14:41:00Z",
+  "spots": {
+    "BARAS": {
+      "East Coast Beach Resort": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["BEACH", "ACCOMMODATION", "RESORT"]
+      },
+      "Macutal Falls": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["WATERFALL", "NATURE"]
+      },
+      "Balacay Point": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["VIEWPOINT", "NATURE"]
+      },
+      "Alon Stay": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["ACCOMMODATION"]
+      },
+      "Abihao Point": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["VIEWPOINT", "NATURE"]
+      },
+      "Dela Villa's Balacay Inn": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["ACCOMMODATION"]
+      },
+      "Nyxx & Match Café": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["CAFE", "RESTAURANT"]
+      },
+      "Binurong Point": {
+        "images": [
+          "baras_binurong-point_01.jpg",
+          "baras_binurong-point_02.jpg",
+          "baras_binurong-point_03.png"
+        ],
+        "thumbnail": "baras_binurong-point_01.jpg",
+        "categories": ["VIEWPOINT", "NATURE"]
+      },
+      "Jo Surf Inn": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["ACCOMMODATION", "SURFING"]
+      },
+      "2838 Tea and Cafe": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["CAFE"]
+      },
+      "Stanza De Benedicto": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["VIEWPOINT", "HERITAGE"]
+      },
+      "Majestic Puraran Beach Resort": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["BEACH", "ACCOMMODATION", "RESORT", "SURFING"]
+      },
+      "TasTea": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["CAFE"]
+      },
+      "Puraran Surf Resort": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["BEACH", "ACCOMMODATION", "RESORT", "SURFING"]
+      },
+      "Titaay Surfers Inn": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["ACCOMMODATION", "SURFING"]
+      },
+      "L'Astrolabe": {
+        "images": [],
+        "thumbnail": null,
+        "categories": ["ACCOMMODATION"]
+      }
+    }
+  }
+}

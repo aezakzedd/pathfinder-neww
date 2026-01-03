@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Miguel River Park",
+        "categories": ["NATURE", "PARK"],
+        "description": "A river park in San Miguel",
+        "municipality": "SAN MIGUEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.28110917976015, 13.705960845800394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solong Falls",
+        "categories": ["WATERFALL", "NATURE"],
+        "description": "A waterfall in San Miguel",
+        "municipality": "SAN MIGUEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.29318572123779, 13.654843207001997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3s Pares Marias",
+        "categories": ["RESTAURANT", "CAFE"],
+        "description": "A restaurant in San Miguel",
+        "municipality": "SAN MIGUEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.29963612327701, 13.64262420028011]
+      }
+    }
+  ]
+}

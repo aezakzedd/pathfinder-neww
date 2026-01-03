@@ -1,0 +1,32 @@
+{
+  "name": "vite-react-tailwind-latest",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:rpi": "NODE_ENV=production vite build --mode production",
+    "build:optimized": "npm run optimize:images && npm run build:rpi",
+    "optimize:images": "node scripts/optimize-images.js",
+    "preview": "vite preview --host 0.0.0.0 --port 5000",
+    "preview:rpi": "vite preview --host 0.0.0.0 --port 5000",
+    "analyze": "npx vite-bundle-visualizer"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest",
+    "maplibre-gl": "latest",
+    "react-map-gl": "latest"
+  },
+  "devDependencies": {
+    "vite": "latest",
+    "@vitejs/plugin-react": "latest",
+    "tailwindcss": "latest",
+    "@tailwindcss/postcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest",
+    "sharp": "^0.33.0"
+  }
+}
